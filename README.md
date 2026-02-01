@@ -49,3 +49,4 @@ The focus is on **engineering correctness, clarity, and decision-making logic**,
 ## 🏗️ Project Structure
 <img width="732" height="507" alt="image" src="https://github.com/user-attachments/assets/b5f194b8-1195-4606-b6a8-f962cc85b142" />
 
+> This modular structure ensures clean separation between interview logic, evaluation rules, and UI visualization.
