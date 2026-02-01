@@ -1,0 +1,10 @@
+{
+  "mcq": {
+    "correct": 23,
+    "wrong": 4
+  },
+  "coding": {
+    "passed": 6,
+    "total": 10
+  }
+}
